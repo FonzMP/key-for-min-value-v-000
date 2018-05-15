@@ -6,6 +6,7 @@ def key_for_min_value(name_hash)
   if length_of_array == 0
     return nil
   else
+    lowest = ""
     name_hash.each do |key, value|
       puts "#{key}: #{value}"
     end
