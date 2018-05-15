@@ -6,5 +6,6 @@ def key_for_min_value(name_hash)
   if length_of_array = 0
     return nil
   else
-    
+    puts "Here we go"
+  end
 end
