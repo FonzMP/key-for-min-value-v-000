@@ -7,5 +7,6 @@ def key_for_min_value(name_hash)
     return nil
   else
     lowest = ""
+    puts lowest
   end
 end
